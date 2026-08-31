@@ -1,13 +1,13 @@
 # Hi, I'm Don 👋
 
-✈️ **B2 Licensed Aircraft Engineer (Avionics)**
+✈️ **B2 Licensed Aircraft Engineer (CAAS)**
 📊 **BSc Data Science & Analytics Undergraduate**
 
 I'm an aviation professional with a background in aircraft avionics maintenance, inspection and troubleshooting. I'm currently pursuing a degree in Data Science & Analytics and developing my knowledge in data analysis, programming and software engineering.
 
 ## ✈️ Professional Background
 
-* B2 Licensed Aircraft Engineer (Avionics)
+* B2 Licensed Aircraft Engineer 
 * Aircraft avionics maintenance and troubleshooting
 * Aircraft inspection and defect rectification
 * Commercial aviation maintenance experience
